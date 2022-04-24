@@ -12,7 +12,7 @@ body {
   /* 9. Add 15px padding */
   padding: 15px;
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-  background-color: #4B9CD3;
+  background-color:#4B9CD3;
 }
 
 input[type=text], input[type=password] {
