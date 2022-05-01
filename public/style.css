@@ -8,14 +8,15 @@ body {
 }
 
 /* 8. Add style to divs with the "container" class */
-.container{
+.container {
   /* 9. Add 15px padding */
   padding: 15px;
   /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
-  background-color:#4B9CD3;
+  background-color: #4B9CD3;
 }
 
-input[type=text], input[type=password] {
+input[type=text],
+input[type=password] {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
@@ -24,7 +25,8 @@ input[type=text], input[type=password] {
   background: #f1f1f1;
 }
 
-input[type=text]:focus, input[type=password]:focus {
+input[type=text]:focus,
+input[type=password]:focus {
   background-color: #ddd;
   outline: none;
 }
@@ -45,10 +47,10 @@ hr {
 }
 
 /* 16. Set a style for the submit button with "registerbtn" class */
- button.registerbtn {
+button.registerbtn {
   /* 17. Set the background color to navy using the hex color */
   background-color: #000080;
-  /* 18. Set the text color to white using the hex color */  
+  /* 18. Set the text color to white using the hex color */
   color: #FFFFFF;
   padding: 16px 20px;
   margin: 8px 0;
@@ -71,7 +73,7 @@ a {
 }
 
 /* 22. Set style for links using the :hover pseudoclass */
- a:hover{
+a:hover {
   /* 23. Change the color of links to azure on mouseover */
   color: #0080FF;
   /* 24. Set the text-decoration to underline for links on mouseover */
